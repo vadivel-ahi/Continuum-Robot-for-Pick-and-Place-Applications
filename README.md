@@ -19,12 +19,12 @@
 </p>
 
 <p align="center">
-  <img src="images/continuum_robot_top_view.png" alt="Top View of Actuation Box" width="325"/>
+  <img src="images/continuum_robot_top_view.png" alt="Top View of Actuation Box" width="300"/>
   <br><em>Top-down view of the actuation enclosure showing four servo motor spools and custom PCB shield</em>
 </p>
 
 <p align="center">
-  <img src="images/continuum_robot_pcb_board.png" alt="Custom PCB Shield" width="325"/>
+  <img src="images/continuum_robot_pcb_board.png" alt="Custom PCB Shield" width="300"/>
   <br><em>Custom-fabricated PCB shield for Arduino UNO — integrates multiple servo motor drivers for synchronized tendon coordination</em>
 </p>
 
