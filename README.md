@@ -9,22 +9,22 @@
 ## 📸 Gallery
 
 <p align="center">
-  <img src="images/continuum_robot.jpg" alt="Continuum Robot Full View" width="350"/>
+  <img src="images/continuum_robot.jpg" alt="Continuum Robot Full View" width="325"/>
   <br><em>Complete robot assembly — tendon-actuated arm with 3D-printed gripper and servo actuator box</em>
 </p>
 
 <p align="center">
-  <img src="images/continuum_robot_in_operation.png" alt="Robot in Operation" width="420"/>
+  <img src="images/continuum_robot_in_operation.png" alt="Robot in Operation" width="350"/>
   <br><em>Robot demonstrating controlled bending — showing compliant structure in a deflected end-effector position</em>
 </p>
 
 <p align="center">
-  <img src="images/continuum_robot_top_view.png" alt="Top View of Actuation Box" width="420"/>
+  <img src="images/continuum_robot_top_view.png" alt="Top View of Actuation Box" width="325"/>
   <br><em>Top-down view of the actuation enclosure showing four servo motor spools and custom PCB shield</em>
 </p>
 
 <p align="center">
-  <img src="images/continuum_robot_pcb_board.png" alt="Custom PCB Shield" width="300"/>
+  <img src="images/continuum_robot_pcb_board.png" alt="Custom PCB Shield" width="325"/>
   <br><em>Custom-fabricated PCB shield for Arduino UNO — integrates multiple servo motor drivers for synchronized tendon coordination</em>
 </p>
 
