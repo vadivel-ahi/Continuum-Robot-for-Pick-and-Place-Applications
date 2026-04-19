@@ -9,7 +9,7 @@
 ## 📸 Gallery
 
 <p align="center">
-  <img src="images/continuum_robot.jpg" alt="Continuum Robot Full View" width="420"/>
+  <img src="images/continuum_robot.jpg" alt="Continuum Robot Full View" width="350"/>
   <br><em>Complete robot assembly — tendon-actuated arm with 3D-printed gripper and servo actuator box</em>
 </p>
 
